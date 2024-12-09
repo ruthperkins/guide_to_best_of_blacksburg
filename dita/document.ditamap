@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map class="- map/map ">
+    <title class="- topic/title ">Guide to the Best Fries in Blacksburg</title>
+    <topicref href="index.dita" class="- map/topicref "/>
+    <topicref href="feather_bone.dita" class="- map/topicref "/>
+    <topicref href="rising_silo.dita" class="- map/topicref "/>
+    <topicref href="greens.dita" class="- map/topicref "/>
+    <topicref href="g2s.dita" class="- map/topicref "/>
+    <topicref href="the_cellar.dita" class="- map/topicref "/>
+</map>
